@@ -31,3 +31,7 @@ Ensure that your csv files:
 * Are entirely int/float data (aside from headers)
 # Credits
 Made with ChatGPT for my friend who needed it.
+
+[python-ternary](https://github.com/marcharper/python-ternary) - marcharper
+
+[python-quaternary](https://github.com/sachour/python-quaternary) - sachour
