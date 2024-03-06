@@ -1,0 +1,5 @@
+matplotlib>=3.8.3
+numpy>=1.26.4
+pandas>=2.2.1
+python-ternary>=1.0.8
+python-quaternary>=0.0.1
